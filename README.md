@@ -36,7 +36,7 @@ My activities focus on the design and validation of **real-time measurement and 
 ## More About My Profile
 
 - [Main Areas of Expertise](docs/expertise.md)
-
+- [Education and Training](docs/education.md)
 
 ## Follow Me
 
